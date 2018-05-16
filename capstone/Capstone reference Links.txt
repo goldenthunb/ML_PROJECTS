@@ -1,0 +1,9 @@
+https://www.kaggle.com/mchatham/ames-housing-regression/code
+
+https://www.kaggle.com/surya635/house-price-prediction/code
+
+https://www.fabienplisson.com/random-forest-and-grid-search/
+
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+
+https://www.kaggle.com/gchshin/house-price-prediction-challenge/code
